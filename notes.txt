@@ -1,0 +1,2 @@
+--how to secure deployment on pythonanywhere: https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
+--
